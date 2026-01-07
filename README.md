@@ -1,1 +1,2 @@
-Repository to store my CodeForces Code.
+# my-codeforces-code
+Repository to store my CodeForces code.
