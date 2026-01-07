@@ -1,7 +1,7 @@
 // Problem 279B. Books
 // O(N) time
-// Standard Sliding Window Approach
-// Works only on non-negative integers
+// Standard Sliding Window approach.
+// Works only on non-negative integers.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -56,4 +56,5 @@ int main() {
     cout << maxWindowLength << "\n";
 
     return 0;
+
 }
